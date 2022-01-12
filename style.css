@@ -1,0 +1,16 @@
+body{
+	background: url(img/photo.png) no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+.body-chlid{
+	background-color: rgba(8, 78, 224, 0.4);	
+}
+form{
+	background-color: #0a0a23;
+	color: #ffffff;
+}
+.btn-success{
+	font-size: 1.2em;
+	font-weight: bold;
+}
